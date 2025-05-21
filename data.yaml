@@ -1,0 +1,5 @@
+train: C:\Users\galag\PycharmProjects\SOTRibalka\DataSet\train\images
+val: C:\Users\galag\PycharmProjects\SOTRibalka\DataSet\train\images
+
+nc: 1
+names: ['bloba']
